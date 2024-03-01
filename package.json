@@ -1,0 +1,25 @@
+{
+  "name": "keshsad",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "sst bind astro dev",
+    "start": "astro dev",
+    "build": "astro check && astro build",
+    "preview": "astro preview",
+    "astro": "astro",
+    "sst:deploy": "sst deploy",
+    "sst:dev": "sst dev"
+  },
+  "dependencies": {
+    "astro": "^4.4.6",
+    "@astrojs/check": "^0.5.6",
+    "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "sst": "^2.40.3",
+    "aws-cdk-lib": "2.124.0",
+    "constructs": "10.3.0",
+    "astro-sst": "^2.40.3"
+  }
+}
