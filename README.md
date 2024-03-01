@@ -7,7 +7,7 @@ It's of course easier said than done, but that's exactly why I'm taking the firs
 
 I might add some random bits to practice coding. Or I might not. Just trying to reduce the friction. Forget notion, apple notes, obsidian, or what have you.
 
-Everything public. Hidden in commit history :)
+Everything public. Hidden in commit history 🙏🏽
 
 ### WIP
 
