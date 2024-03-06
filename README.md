@@ -59,6 +59,17 @@ i initially crafted this [concept](https://rishi-sadanandan-therapy.vercel.app/)
 
 let me tell you first that i was stuck in the abstracted yet beautiful land of vercel for quite a bit. after finding difficulties, i looked to meditations and was reminded to stay open-minded. change is inevitable, and any good experience is within my grasp. it's up to me to let go of difficulties and try new things. that's when i really started to look beyond the vercel world, paid attention to the sst team, and learned about remix and astro. i still saw go and solid doing great for people. the technological future is bright
 
+### 3. a better fullstack entrepreneur experience
+
+it's hard to be a developer. you can say it's even harder to be an entrepreneur. the biggest lessons i learned from both experiences is to:
+
+- ask useful questions
+- listen very closely
+
+the problem is that there's a lot of questions and few good answers. a roadmap.sh would work.
+
+---
+
 since there a few buckets that i need to write about, i'll separate into subdirectories and branches:
 
 - [ ] [music-app]()
