@@ -1,17 +1,8 @@
-
-To improve as a basketball player, you must play games against the best.
-To improve as a producer, you must produce every day.
-To improve as a software developer... write software.
-
-It's of course easier said than done, but that's exactly why I'm taking the first step here.
-
-Basically, if it's too hard for me to decide what to work on, I'll have one place to store all the problems I notice in web dev and SWE. And how I can fix them, if I can. And perhaps some of the resources I used. Why hide my failures?
-
-I'm just trying to reduce the friction. Everything public. Hidden in commit history 🙏🏽
+Reduce the friction. Everything public. Hidden in commit history 🙏🏽
 
 ---
 
-# WIP
+# Examples
 
 Some examples:
 
@@ -19,18 +10,22 @@ Some examples:
 2. [Manu Edakara](https://www.manuedakara.com/purpose)
 3. [Luke Clancy](https://lukeclancy.me/)
 
+# My Experience
+
 I have some buckets myself:
+
 - web dev
 - meditation (approach, practice, and integration)
 - music
 - thought
-- sports (formula 1, boxing, basketball, tennis)
 
 Mind dump everything about me for now, pick the important pieces later.
 
-I also have some work experience:
+I also have some experience:
+
 - Co-Founder and Software Engineer at Poetic (from Fall 2021 -> Fall 2023)
 - Program Fellow (iV9 from Summer 2023 -> Spring 2024) and iVenture Accelerator alum (iV8 from Summer 2022 -> Spring 2023)
+- Computer Engineering at Urbana-Champaign (Fall 2021 - Fall 2023, 23 credits from graduation)
 
 I can find a practical and low-overhead way to send out my resume pdf. SST?
 
@@ -63,5 +58,8 @@ Apart from the beauty and entrepreneurial productivity of the iVenture community
 - Apple Music does not implement Optimistic UI, makes it confusing with my workflow: always sort big list of likes by recently added, shuffle and relike (change color of heart emoji to background, default black, to make UI fun to use)
 - Apple Music lyrics are clean
 - SoundCloud and YouTube have all the unreleased songs
+- A consistently great group jam
 
-Since there a few buckets that I need to write about, I'll separate into subdirectories.
+Since there a few buckets that I need to write about, I'll separate into subdirectories:
+
+- [Music App]()
