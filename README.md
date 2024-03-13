@@ -2,29 +2,22 @@ reduce the friction. everything public. hidden in commit history 🙏🏽
 
 ## whoami
 
-born in chicago 🐂, raised in charlotte 👑
+born in chicago 🐂, raised in charlotte 👑. keywords: js, startups, music, university, and ai
 
-basically im just: js, startups, music, and ai
+i use js to build on the web, for the web. originally i was meant to follow the traditional software engineering path, but soon i found myself co-founding a startup to help rappers overcome writers' block. my journey towards production-grade programming began with js, react, next, gpt2 (before the rise of chatgpt), and aws sagemaker. plus talking to humans to solve the right problem. that's important for any production-grade program to be useful to humans, of course.
 
-i use js to build on the web, for the web
-
-i helped run the iventure accelerator in 2023
-
-built a lyric-writing startup to help rappers overcome writers' block with iventure accelerator in 2022
-
-studying computer engineering bs at urbana-champaign
+blessed, i earned a spot at the nation's top university startup accelerator: the iventure accelerator at urbana-champaign,
+sponsored by the gies college of business. as a computer engineer i still didn't feel out of place, what with 9 different colleges represented
+in my cohort in 2021. i later had the opportunity to give back alongside a brilliant leadership team. in short, it was lifechanging.
 
 ## rn
 
-right now im trying to get an internship for the summer
-
-so im working on a project i like - a music app for myself
-
-check readme in [./keshlib/music-app/](./keshlib/music-app/)
+right now im trying to get an internship for the summer, so im working on a project i like - a music app for myself. can
+you tell i like music. check readme in [./keshlib/music-app/](./keshlib/music-app/).
 
 also absorbing stoic philosophy, which is why im practicing to write. marcus
-aurelius wrote his *meditations* after his tutor died, so he can teach himself.
-since i keep a closed-source journal on my local machine, let this be a way to ground my work into the Internet.
+aurelius wrote his *meditations* after his tutor died, so he can teach himself for himself.
+since i keep a closed-source journal on my local machine, let this be a way to share my work to the Internet.
 
 ## foreword
 
@@ -83,6 +76,7 @@ i also was interested in avoiding deployment costs. i could still imagine, as a 
 - [ ] [therapy-app](./keshlib/therapy-app/)
 - [ ] [iventure](./keshlib/therapy-app/)
 - [ ] [web-dev](./keshlib/web-dev/)
+- [ ] [contemplation](./keshlib/contemplation/)
 
 ## why all of this?
 
