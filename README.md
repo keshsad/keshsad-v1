@@ -64,6 +64,8 @@ i read *Refactoring UI* and learned to implement design principles.
 
 i also was interested in avoiding deployment costs. i could still imagine, as a university freshman, the horror stories of AWS bills. was definitely motivated to build only for serverless.
 
+### speed
+
 ### examples
 
 1. [lee robinson](https://leerob.io/)
