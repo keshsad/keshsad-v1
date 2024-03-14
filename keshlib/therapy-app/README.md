@@ -1,17 +1,44 @@
 
-### a better therapy experience
+## a better therapy experience
 
-in my junior year, i ran across a [podcast episode](https://podcasts.apple.com/us/podcast/trained/id1414073313?i=1000417484122) with the senior director of performance at nike interviewing a british former buddhist monk. a pretty cool duo. i was deep into tennis at the time. it was also probably the best introduction i could've ever received.
+in my junior year of highschool, i was deep into tennis. our season was cancelled due to the pandemic in 2020, so i
+turned to the Internet to fill my time, perhaps like most kids my age. i came across a [podcast episode](https://podcasts.apple.com/us/podcast/trained/id1414073313?i=1000417484122) where the senior director of performance at nike interviewed a british former buddhist monk. i was first listening to improve my tennis game, but it became much more than that. it was the best introduction to the benefits of meditation i could've ever received.
 
-i previously founded a startup to help songwriters write better lyrics on the rise of chatgpt. it was a really cool experience that nicely tied my hobby for listening to music to a constructive skill. moreover, i believe i started to care a lot more about the unique ability of humans to write. i was no good. there's a few examples:
+since then, i've just been practicing meditation on and off. that's the great thing - there's no stress attached
+to missing a meditation because you understand the next best thing is always to do it next time you can. no need
+to beat yourself up over it. this mindset extended to the gym, to beginning to read, and to hanging with friends, and it
+worked for me. this is just one example of how meditation integrates into life. the monk i mentioned previously wrote a very digestible book: *the headspace guide to meditation*, by andy puddicombe. there's also a wonderful series on netflix titled *guide to meditation*, for all ages and inquisitive individuals.
 
-- writing simply in entrepreneurship
-- useful documentation for developers
-- journaling
-- thoughtful app content and tooltips
-- buddhist monks and scribes that kept their practices
+### why writing
 
-i initially crafted this [concept](https://rishi-sadanandan-therapy.vercel.app/) as i learnt about next.js, vercel, and tailwind. i also grew fond of design by studying _refactoring ui_ by the tailwind team. since then, i've been focused on learning the fundamentals: html basics, the performant serverless [javascript](https://github.com/getify/you-dont-know-js/tree/1st-ed), and the broader [developer roadmaps](https://roadmap.sh/).
+upon arriving at university, i met the most impactful person in which i later spent lots of time with. he was a talented
+writer, and he was the role model that sparked my fascination with the human quality of natural language. the best way
+to describe myself since then would be that i was in *turmoil* to improve that forgotten aspect of writing. while i
+started an intermittent journaling habit after the podcast episode in high school, i started writing a little bit more
+passionately since university. i was no good. but that meant i was quite keen to learn from examples:
 
-let me tell you first that i was stuck in the abstracted yet beautiful land of vercel for quite a bit. after finding difficulties, i looked to meditations and was reminded to stay open-minded. change is inevitable, and any good experience is within my grasp. it's up to me to let go of difficulties and try new things. that's when i really started to look beyond the vercel world, paid attention to the sst team, and learned about remix and astro. i still saw go and solid doing great for people. the technological future is bright
+- marcus aurelius (stoic philosopher and roman emperor) wrote a personal collection of books to contemplate his life
+- entrepreneurs wrote to think and ask themselves important intentional questions
+- buddhist monks had scribes to preserve their practices and hone the benefits
+- developers today write documentation to teach others
+- personal journaling for whatever reason fits
 
+i always enjoyed the feeling after dumping my brain into my computer. during the process, not so much, because i was in
+that turmoil to convey myself properly. i worried to improve the grammar of my writing, moving around sentences such
+that ideas are coherent, and rewriting over and over to find the [right words](https://onelook.com/thesaurus/?s=finding%20the%20right%20words%20at%20the%20right%20time). my diction was limited, i felt
+limited. my confidence was not there. i looked so beyond to those before me, those greater than me, that i did not see my
+own self seriously. it was only myself that convinced myself that i would never be enough to write usefully.
+
+that's bs.
+
+i believe anyone can act in service. anyone can be useful. anyone can write code, build product, and solve a problem for
+someone. anyone can write in their native language and help someone else view the world with a different, perhaps
+clearer lens. or at least, anyone can try. and if there's effort and iteration, there's progress and impact.
+
+### concept
+
+i initially crafted this [concept](https://rishi-sadanandan-therapy.vercel.app/) as i learnt about next.js, vercel, and tailwind. i also grew fond of design by studying _refactoring ui_ by the tailwind team. since then, i've been focused on learning the fundamentals: html basics, performant serverless [javascript](https://github.com/getify/you-dont-know-js/tree/1st-ed), and broader [developer roadmaps](https://roadmap.sh/).
+
+let me tell you first that i was stuck in the abstracted yet beautiful land of next/vercel for quite a bit. after finding difficulties, i looked to meditations and was reminded to stay open-minded. change is inevitable, and any good experience is within my grasp. it's up to me to let go of difficulties and try new things. that's when i really started to look beyond the vercel world, paid attention to the sst team, and learned about remix and astro. i still saw go and solid doing great for people. the technological future is bright
+
+### mvp

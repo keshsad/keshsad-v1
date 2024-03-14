@@ -4,10 +4,10 @@ reduce the friction. everything public. hidden in commit history 🙏🏽
 
 born in chicago 🐂, raised in charlotte 👑. keywords: js, startups, music, university, and ai
 
-i use js to build on the web, for the web. originally i was meant to follow the traditional software engineering path, but soon i found myself co-founding a startup to help rappers overcome writers' block. my journey towards production-grade programming began with js, react, next, gpt2 (before the rise of chatgpt), and aws sagemaker. plus talking to humans to solve the right problem. that's important for any production-grade program to be useful to humans, of course.
+i use js to build on the web, for the web. originally i was meant to follow the traditional software engineering path, but soon i found myself co-founding a startup to help rappers overcome writers' block. my journey towards production-grade programming began with js, react, next, gpt2 (before the rise of chatgpt), and aws. plus talking to humans to solve the right problem. that's important for any production-grade program to be useful to humans, of course.
 
 blessed, i earned a spot at the nation's top university startup accelerator: the iventure accelerator at urbana-champaign,
-sponsored by the gies college of business. as a computer engineer i still didn't feel out of place, what with 9 different colleges represented
+sponsored by the gies college of business. as a computer engineer, i still didn't feel out of place, what with 9 different colleges represented
 in my cohort in 2021. i later had the opportunity to give back alongside a brilliant leadership team. in short, it was lifechanging.
 
 ## rn
