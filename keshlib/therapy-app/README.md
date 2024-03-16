@@ -42,3 +42,10 @@ i initially crafted this [concept](https://rishi-sadanandan-therapy.vercel.app/)
 let me tell you first that i was stuck in the abstracted yet beautiful land of next/vercel for quite a bit. after finding difficulties, i looked to meditations and was reminded to stay open-minded. change is inevitable, and any good experience is within my grasp. it's up to me to let go of difficulties and try new things. that's when i really started to look beyond the vercel world, paid attention to the sst team, and learned about remix and astro. i still saw go and solid doing great for people. the technological future is bright
 
 ### mvp
+
+
+
+### guidelines
+
+ai-based apps should be transparent in their data usage and processing. explain to users how this app uses AI and how it will benefit them. increase trust with clear explanations about how ai models work and how their data is handled.
+
