@@ -37,7 +37,7 @@ clearer lens. or at least, anyone can try. and if there's effort and iteration, 
 
 ### concept
 
-i initially crafted this [concept](https://rishi-sadanandan-therapy.vercel.app/) as i learnt about next.js, vercel, and tailwind. i also grew fond of design by studying _refactoring ui_ by the tailwind team. since then, i've been focused on learning the fundamentals: html basics, performant serverless [javascript](https://github.com/getify/you-dont-know-js/tree/1st-ed), and broader [developer roadmaps](https://roadmap.sh/).
+i initially crafted this [concept](https://rishi-sadanandan-therapy.vercel.app/) as i learnt about [nextjs](https://nextjs.org/), [vercel](https://vercel.com/home), and [tailwind](https://tailwindcss.com/). i also grew fond of design by studying _refactoring ui_ by the tailwind team. since then, i've been focused on learning the fundamentals: html basics, performant serverless [javascript](https://github.com/getify/you-dont-know-js/tree/1st-ed), and broader [developer roadmaps](https://roadmap.sh/).
 
 let me tell you first that i was stuck in the abstracted yet beautiful land of next/vercel for quite a bit. after finding difficulties, i looked to meditations and was reminded to stay open-minded. change is inevitable, and any good experience is within my grasp. it's up to me to let go of difficulties and try new things. that's when i really started to look beyond the vercel world, paid attention to the [sst](https://sst.dev/) team, and learned about [remix](https://remix.run/) and [astro](https://astro.build/). i still saw [htmx](https://htmx.org/)/[go](https://go.dev/) and [solidjs](https://www.solidjs.com/) doing great for people. the technological future is bright
 
