@@ -2,7 +2,7 @@
 ## a better therapy experience
 
 in my junior year of highschool, i was deep into tennis. our season was cancelled due to the pandemic in 2020, so i
-turned to the Internet to fill my time, perhaps like most kids my age. i came across a [podcast episode](https://podcasts.apple.com/us/podcast/trained/id1414073313?i=1000417484122) where the senior director of performance at nike interviewed a british former buddhist monk. i was first seeking to improve my tennis game, but it became much more than that. it was the best introduction to the benefits of meditation i could've ever received.
+turned to the Internet to fill my time, perhaps like most kids my age. i came across a [podcast episode](https://podcasts.apple.com/us/podcast/trained/id1414073313?i=1000417484122) where the senior director of performance at nike interviewed a british former buddhist monk. i was first seeking to improve my tennis game, but it became much more than that. it was the best introduction to meditation i could've ever received.
 
 since then, i've been practicing meditation on and off. that's the great thing - there's no stress attached
 to missing a meditation because you understand the next best thing is simply to pick it up when you can. no need
