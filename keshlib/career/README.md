@@ -4,7 +4,7 @@ Below are some things I found on the Internet to help people like me navigate ca
 
 **Portfolio with Astro** <br />
 Astro is a great choice because it lets me use any rendering library I'd like, including React, and is excellent for
-creating effecient, fast websites. Deploying this on AWS through SST (and recently with [Ion](ion.sst.dev)) aligns with
+creating effecient, fast websites. Deploying this on AWS through SST (and recently with [Ion](https://ion.sst.dev/)) aligns with
 my preferred tools.
 
 **Music App with Remix** <br />
