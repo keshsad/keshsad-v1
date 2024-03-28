@@ -9,7 +9,6 @@
 
 **design**
 
-- [Design+Code](https://designcode.io/tutorials) (mobile)
 - [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/) by Apple
 
 **mobile**
@@ -19,6 +18,7 @@
 
 ### tech topics
 
+- [ ] [c#](./c#/)
 - [ ] sst
 - [ ] astro
 - [ ] remix
