@@ -4,17 +4,16 @@
 **favs**
 
 - [MDN](https://developer.mozilla.org/en-US/curriculum/getting-started/soft-skills/#succeeding_in_job_interviews)
-- [React Native Express](https://www.reactnative.express/) - a guide to building cross-platform apps
-- [Refactoring UI](https://www.refactoringui.com/) ($$$) by the Tailwind team
+- [SST Guide](https://sst.dev/guide.html)
+- [Primeagen's HTMX/Go course](https://www.youtube.com/watch?v=x7v6SNIgJpE&t=716s) and the [HTMX Book](https://hypermedia.systems/book/contents/)
+- [Speaking JavaScript book](https://exploringjs.com/es5/toc.html)
+- [roadmap.sh](https://roadmap.sh/)
 
 **design**
 
+- [Resilient Web Design](https://resilientwebdesign.com/)
+- [Refactoring UI](https://www.refactoringui.com/) ($$$) by the Tailwind team
 - [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/) by Apple
-
-**mobile**
-
-- [React Native Docs](https://reactnative.dev/docs/getting-started.html)
-- [Expo Development Process](https://docs.expo.dev/workflow/overview/)
 
 ### tech topics
 
