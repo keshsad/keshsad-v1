@@ -17,7 +17,7 @@
 
 ### tech topics
 
-- [ ] [c#](./c#/)
+- [ ] [c#](https://github.com/rishi-sadanandan/keshsad/tree/main/keshlib/web-dev/c%23)
 - [ ] sst
 - [ ] astro
 - [ ] remix
