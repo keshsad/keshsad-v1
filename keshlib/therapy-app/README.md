@@ -1,9 +1,13 @@
 ### notes
 
 - solve the problem in my own life
-- build with tools i already know
+- build with tools i already know (web first, native later)
 - launch multiple times
 - good products don't need fancy bells
+- lose the perfectionism - it'll never be perfect anyways
+- get to mvp quickly. minimum & viable bro
+- subscription >> single payments. $1/week
+- the benefits of a clear mind are underestimated
 
 ### concept
 
