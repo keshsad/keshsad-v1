@@ -23,19 +23,24 @@ i initially crafted this [concept](https://rishi-sadanandan-therapy.vercel.app/)
 
 - daily prompts - choose from set of three Stoic-inspired questions, for waking up *and* before bed, like marcus
   aurelius
-- cmd + j to get instant stoic-inspired feedback. cmd + l to start a situational conversation 
+- cmd + j to get instant stoic-inspired feedback as a toast
+- cmd + l to start a situational conversation on the side
+- cmd + k to open command bar (home, save, export, print)
 - notifications - subtle reminders to contextually enhance your daily experience of life
 
-- everything markdown. users prolly don't care about that though. i'll use it to let users mark certain pieces of text
-  that shouldn't be taken into account by the ai to reduce cost? markdown format let's user data stay liquid
-- simple text area, allowing expected text input like bullets, lists, and indents, but also longer hierarchical
-  narratives
+
+- everything markdown so user data is liquid as possible
+- simple text area, expecting bullets, lists, and indents, but also longer hierarchical narratives
+- implement vim?
 
 - cloud and local storage
 - generous free tier
 
 - minimal interface
-- quick access, easily accessible, streamlines (and only essential) menus
+- quick access, easily accessible, only essential menus
+- never worry about titles: YYYY-MM-DD format
+- "/" is default empty page
+- "/nav" to navigate entries
 
 - pick your Stoic mentor
 - ai learns from journal entries to compose an internal narrative portrait. share monthly
