@@ -6,7 +6,7 @@ reduce the friction. everything public. hidden in commit history 🙏🏽
 - [ ] [music-app](./keshlib/music-app/)
 - [ ] [web-dev](./keshlib/web-dev/)
 - [ ] [career](./keshlib/career/)
-- [ ] [iventure](./keshlib/therapy-app/)
+- [ ] [iventure](./keshlib/iventure/)
 - [ ] [contemplation](./keshlib/contemplation/)
 
 ## whoami
