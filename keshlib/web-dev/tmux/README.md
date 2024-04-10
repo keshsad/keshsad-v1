@@ -8,8 +8,8 @@ developers to use because it is one good solution to keeping both local and ssh 
 - start tmux by running `tmux` at the terminal
 - create new windows with `ctrl+b` => `c`
 - switch between windows with `ctrl+b` => `n` (next) or `p` (previous) or `<window num>`
-- split into horizontal panes with `ctrl+b` => `%`
-- split into vertical panes with `ctrl+b` => `"`
+- split into left/right panes with `ctrl+b` => `%`
+- split into top/bottom panes with `ctrl+b` => `"`
 - navigate panes with `ctrl+b` => `<arrow key>`
 - detach from tmux with `ctrl+b` => `d` 
 - reattach to tmux session with `tmux a` at the terminal

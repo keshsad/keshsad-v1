@@ -24,10 +24,9 @@ i initially crafted this [concept](https://rishi-sadanandan-therapy.vercel.app/)
 - daily prompts - choose from set of three Stoic-inspired questions, for waking up *and* before bed, like marcus
   aurelius
 - cmd + j to get instant stoic-inspired feedback as a toast
-- cmd + l to start a situational conversation on the side
+- cmd + j (briefly hold) to start a situational conversation on the side
 - cmd + k to open command bar (home, save, export, print)
 - notifications - subtle reminders to contextually enhance your daily experience of life
-
 
 - everything markdown so user data is liquid as possible
 - simple text area, expecting bullets, lists, and indents, but also longer hierarchical narratives

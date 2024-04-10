@@ -12,4 +12,5 @@ i think airbuds is a great step. i want to search and play my music from there t
 - apple music lyrics are clean
 - soundcloud and youtube have all the unreleased songs
 - a consistently great group jam
-
+- ai that let's you turn text into playlists of your choice.
+- make playlists similar to songs you like
