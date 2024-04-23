@@ -31,6 +31,7 @@ i initially crafted this [concept](https://rishi-sadanandan-therapy.vercel.app/)
 - everything markdown so user data is liquid as possible
 - simple text area, expecting bullets, lists, and indents, but also longer hierarchical narratives
 - implement vim?
+- journal analytics: number of words written, number of entries, average entry length (simple plotted line graph)
 
 - cloud and local storage
 - generous free tier
