@@ -24,7 +24,7 @@ get someone to throughly read through my experience in my resume... This also me
 about the dotnet platform (Azure and ASP.NET), and hone my interviewing skills pretty quickly.
 
 **Long term JavaScript** <br />
-I believe staying within the JavaScript ecosystem isn't a bad idea. Frameworks like React Native and Next have matured greatly thanks to the [open-source community](https://ion.sst.dev/docs/). Developers are learning quicker than ever with new resources. In the next few years, JavaScript will be the recommended way to build mobile and progressive web apps, providing truly native-like experiences. However, it would be a mistake to intentionally ignore technologies that could shape me for the better.
+I believe staying within the JavaScript ecosystem isn't a bad idea. Frameworks like React Native and Next have matured greatly thanks to the [open-source community](https://ion.sst.dev/docs/). In the next few years, JavaScript will be the recommended way to build mobile and progressive web apps, providing truly native-like experiences. However, it would be a mistake to intentionally ignore technologies that could shape me for the better.
 
 **Ecosystem Felexibility & Growth** <br />
 I'm keeping myself open to multiple ecosystems (AWS and GCP) which is beneficial considering each cloud provider has its
