@@ -35,6 +35,7 @@ i initially crafted this [concept](https://rishi-sadanandan-therapy.vercel.app/)
 
 - cloud and local storage
 - generous free tier
+- one entry a day for free users, unlimited for paid
 
 - minimal interface
 - quick access, easily accessible, only essential menus
