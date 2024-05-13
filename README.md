@@ -2,12 +2,12 @@ reduce the friction. everything public. hidden in commit history 🙏🏽
 
 ### buckets
 
-- [ ] [therapy-app](./keshlib/therapy-app/)
-- [ ] [music-app](./keshlib/music-app/)
+- [ ] [therapy-app](./keshlib/apps/therapy-app/)
+- [ ] [music-app](./keshlib/apps/music-app/)
 - [ ] [web-dev](./keshlib/web-dev/)
-- [ ] [career](./keshlib/career/)
-- [ ] [iventure](./keshlib/iventure/)
-- [ ] [contemplation](./keshlib/contemplation/)
+- [ ] [career](./keshlib/unsorted/career/)
+- [ ] [iventure](./keshlib/unsorted/iventure/)
+- [ ] [contemplation](./keshlib/unsorted/contemplation/)
 
 ## whoami
 
