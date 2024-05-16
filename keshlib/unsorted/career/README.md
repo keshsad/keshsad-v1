@@ -33,10 +33,9 @@ but also my understanding of different methodologies in web development.
 
 **Future of Web Development** <br />
 I can't help but think about the long-term vision of developing software on the web, for the web. I'm keeping an eye on
-the potential of Javascript and CSS frameworks to create native movile apps which shows that I'm thinking ahead.
+the potential of Javascript and CSS frameworks to create native mobile apps which shows I'm thinking ahead.
 Assessing the value these technologies bring to my own personal specific projects is an exciting approach to becoming a
-well rounded software engineer and contains plenty of learning opportunities. However, I shall remember that the
-technologies are tools to achieve my goals, not goals in themselves.
+well rounded software engineer and contains plenty of learning opportunities. However, I shall remember that technologies are simply tools to achieve my goals, not goals themselves.
 
 ## interviews
 

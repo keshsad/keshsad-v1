@@ -2,12 +2,12 @@ reduce the friction. everything public. hidden in commit history 🙏🏽
 
 ### buckets
 
-- [ ] [therapy-app](./keshlib/apps/therapy-app/)
-- [ ] [music-app](./keshlib/apps/music-app/)
-- [ ] [web-dev](./keshlib/unsorted/career/web-dev/)
-- [ ] [career](./keshlib/unsorted/career/)
-- [ ] [iventure](./keshlib/unsorted/iventure/)
-- [ ] [contemplation](./keshlib/unsorted/contemplation/)
+- [ ] [therapy-app]()
+- [ ] [music-app]()
+- [ ] [web-dev]()
+- [ ] [career]()
+- [ ] [iventure]()
+- [ ] [contemplation]()
 
 ## whoami
 
@@ -28,4 +28,3 @@ blessed, i earned a spot at the nation's top university startup accelerator: the
 1. [lee robinson](https://leerob.io/)
 2. [manu edakara](https://www.manuedakara.com/purpose)
 3. [luke clancy](https://lukeclancy.me/)
-
